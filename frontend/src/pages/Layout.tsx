@@ -206,7 +206,7 @@ export default function Layout() {
 
       <footer className="footer">
         <Text size="2" color="gray" className="footer-powered">
-          <span>Powered by</span>
+          <span>© 2026 轩玮博客. Xuwbk.Com All Rights Reserved</span>
           <a href={githubUrl} target="_blank" rel="noreferrer" aria-label="GitHub">
             <Github size={16} />
           </a>
